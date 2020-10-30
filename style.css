@@ -21,10 +21,10 @@
 
             #main_img{width:100%; height:884px;  background:url("images/banner.jpg") no-repeat; background-position: center; background-color: #0e1211; }
 
-footer{margin: 0 auto;  width:1366px; height: 46px; color:#bdbcbc;}
+footer{margin: 0 auto;  width:1366px;  color:#bdbcbc;}
 
 #foot01 li {float: left; padding-left: 15px; margin-top: 10px; margin:0 auto; }
-#foot02 li p {padding-left: 20px; padding-top:15px; color:#bdbcbc; text-align:center; font-weight:500; font-size: 14px;}
+#foot02 li p {color:#bdbcbc; text-align:center; font-weight:500; font-size: 14px;}
 #foot02 li {float: right;  }
 #foot02 li:last-child {float: left;  color:#bdbcbc; }
 
