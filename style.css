@@ -23,8 +23,8 @@
 
 footer{margin: 0 auto;  width:1366px;  color:#bdbcbc;}
 
-#foot01 li {float: left; padding-left: 15px;  margin:0 auto; }
+#foot01 li {float: left; padding-left: 15px;  margin:0 auto; text-align:center;  }
 #foot02 li p {color:#bdbcbc; text-align:center; font-weight:500; font-size: 14px;}
-#foot02 li {float: right;  }
+#foot02 li {float: right; text-align:center;  }
 #foot02 li:last-child {float: left;  color:#bdbcbc; }
 
